@@ -1,0 +1,4 @@
+﻿  Proiect bsi.cpp
+C:\Users\alecs\Desktop\Facultate\Proiecte\Proiect bsi\Proiect bsi\Proiect bsi.cpp(83,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alecs\Desktop\Facultate\Proiecte\Proiect bsi\Proiect bsi\Proiect bsi.cpp(84,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Proiect bsi.vcxproj -> C:\Users\alecs\Desktop\Facultate\Proiecte\Proiect bsi\x64\Debug\Proiect bsi.exe
